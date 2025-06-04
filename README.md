@@ -30,4 +30,16 @@ Images were preprocessed and augmented to improve model generalization. *(You ca
    ```bash
    https://github.com/hassan1303/Vegetable_Image_Classification.git
    cd Vegetable_Image_Classification
+## 🔗 Model on Hugging Face
+
+You can explore or test the trained model on our [Hugging Face Space](https://huggingface.co/spaces/Hassan145/Vegetable_Classification).  
+
+## 👥 Group Members
+
+This project was developed by **Group 4** as part of Arewa Data Science Deep Learning Fellowship Capstone project.
+
+- Hassan Muhamad Adam
+- [Member 2 Name]
+- [Member 3 Name]
+- [Member 4 Name]
 
