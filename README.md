@@ -43,5 +43,7 @@ This project was developed by **Group 4** as part of Arewa Data Science Deep Lea
 - Ganiu Kuku
 - Aliyu Rabiu Shuaibu
 
-## 🙏 Acknowledgements
-My gratitude goes to **[Your Name]**, **[Team Member Name]**, and our mentor **[Mentor’s Name]** for their support and mentorship throughout this project.
+
+## 🙏 Acknowledgments
+
+We extend our gratitude to the **Arewa Data Science Academy**, most especially our able mentor [Mr. Mustapha Abdullahi](https://www.mustaphaabdullahi.com/) and [Dr. Shamsuddeen H. Muhammad](https://shmuhammadd.github.io/). Special thanks to our mentors and peers for their valuable guidance and feedback throughout the course of this project.
