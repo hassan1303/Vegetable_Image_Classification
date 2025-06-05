@@ -39,7 +39,9 @@ You can explore or test the trained model on our [Hugging Face Space](https://hu
 This project was developed by **Group 4** as part of Arewa Data Science Deep Learning Fellowship Capstone project.
 
 - Hassan Muhamad Adam
-- [Member 2 Name]
-- [Member 3 Name]
-- [Member 4 Name]
+- Namiru Lawal
+- Ganiu Kuku
+- Aliyu Rabiu Shuaibu
 
+## 🙏 Acknowledgements
+My gratitude goes to **[Your Name]**, **[Team Member Name]**, and our mentor **[Mentor’s Name]** for their support and mentorship throughout this project.
