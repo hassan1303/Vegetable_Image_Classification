@@ -3,7 +3,7 @@
 
 This project presents an automated deep learning approach to classify four common vegetables: **tomato, cucumber, carrot, and cabbage**. We leverage the power of convolutional neural networks (CNNs), specifically **ResNet** and **AlexNet**, to accurately identify and categorize these vegetables based on their visual features.
 
-## 📌 Project Motivation
+## 📌 Project goals
 
 Automated vegetable classification plays a key role in smart agriculture and food technology. It helps streamline sorting systems, reduce manual errors, and improve overall efficiency in the supply chain. Deep learning, particularly CNNs, enables accurate classification even with complex visual variations.
 
