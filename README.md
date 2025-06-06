@@ -46,4 +46,4 @@ This project was developed by **Group 4** as part of Arewa Data Science Deep Lea
 
 ## 🙏 Acknowledgments
 
-We extend our gratitude to the **Arewa Data Science Academy**, most especially our able mentor [Mr. Mustapha Abdullahi](https://www.mustaphaabdullahi.com/) and [Dr. Shamsuddeen H. Muhammad](https://shmuhammadd.github.io/). Special thanks to our mentors and peers for their valuable guidance and feedback throughout the course of this project.
+We extend our gratitude to the **Arewa Data Science Academy**, most especially our able mentor [Mr. Mustapha Abdullahi](https://www.mustaphaabdullahi.com/) and [Dr. Shamsuddeen H. Muhammad](https://shmuhammadd.github.io/). Special thanks to [Alamein](https://github.com/Alamein), [A.U. Bello, Ph.D. (Google Scholar)](https://scholar.google.com/citations?user=y520ETIAAAAJ&hl=en), and peers for their valuable guidance and feedback throughout the course of this project.
