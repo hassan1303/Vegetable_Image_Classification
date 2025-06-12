@@ -22,7 +22,7 @@ The dataset includes images of:
 - Carrot
 - Cabbage
 
-Images were preprocessed and augmented to improve model generalization. *(You can include dataset source or upload it in the repo if public.)*
+Images were preprocessed and augmented to improve model generalisation.
 
 ## ⚙️ How to Run
 
